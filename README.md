@@ -23,7 +23,7 @@ Well, as you may notice, I haven't spent that much time learning something, but 
 * [sql_mapper](https://github.com/megahomyak/sql_mapper) - just maps rows received from the database connector to models. Oh, and it also can create tables using the model. That's it, probably.
 * [cards_generator](https://github.com/megahomyak/cards_generator) - generates cards with given text from a given image.
 
-### My educational practice projects
+### My educational projects
 
 * [tiny_event_loop](https://github.com/megahomyak/tiny_event_loop) - that's just me practicing writing an event loop by myself. Well, at least it works as intended.
 * [sql_join_explanation](https://github.com/megahomyak/sql_join_explanation) - I was struggling a lot when learning how `JOIN`s work in SQL, and when I finally got it (after two full days of trying to comprehend this simple concept), I decided to make a repository with a unique explanation of it, that would definitely help me if I saw it when reading about `JOIN`s.
