@@ -11,7 +11,7 @@ My stack:
 * Rust (language only)
 * C (language only)
 * Git
-* SQL (very basic knowledge, but I will fix it in the future)
+* SQL (basic knowledge, but I will fix it in the future)
 
 Well, as you may notice, I haven't spent that much time learning something, but at least I wrote a lot of different projects:
 
