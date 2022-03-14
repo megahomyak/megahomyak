@@ -10,6 +10,7 @@ My stack:
     - asyncio
 * Rust (language only)
 * C (language only)
+* Go (aka Golang; language only)
 * Git
 * SQL (base language + window functions concept from PostgreSQL)
 
