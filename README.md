@@ -13,8 +13,7 @@ My stack:
 * Go (aka Golang; language only)
 * Git
 * SQL (base language + window functions concept from PostgreSQL)
-
-Well, as you may notice, I haven't spent that much time learning something, but at least I wrote a lot of different projects:
+* JavaScript
 
 ## My best projects
 
