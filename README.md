@@ -13,7 +13,7 @@ My stack:
 * Go (aka Golang; language only)
 * Git
 * SQL (base language + window functions concept from PostgreSQL)
-* JavaScript
+* JavaScript (without frameworks! (But I can do browser and page interactions using JavaScript))
 
 ## My best projects
 
