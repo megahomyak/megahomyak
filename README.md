@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 16-year-old programmer from Russia, trying to learn and do cool stuff against all odds.
+I am a programmer from Russia, trying to learn and do cool stuff against all odds.
 
 My stack:
 * Python
