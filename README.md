@@ -27,5 +27,5 @@ My contributions:
 
 My contacts:
 * [VK (stale)](https://vk.com/megahomyak)
-* [VK (new)](https://vk.com/nehomyak)
+* [VK (active)](https://vk.com/nehomyak)
 * [Telegram](https://t.me/megahomyak)
