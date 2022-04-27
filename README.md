@@ -24,3 +24,8 @@ My projects:
 
 My contributions:
 * [netschoolapi](https://github.com/nm17/netschoolapi)
+
+My contacts:
+* [VK (stale)](https://vk.com/megahomyak)
+* [VK (new)](https://vk.com/nehomyak)
+* [Telegram](https://t.me/megahomyak)
