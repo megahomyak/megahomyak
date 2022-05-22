@@ -9,9 +9,11 @@ My stack:
 * [Rust](https://rust-lang.org)
 * [C](https://wikipedia.org/wiki/C_(programming_language))
 * [Go](https://go.dev)
-* [Git](https://git-scm.com)
 * [SQL](https://w3schools.com/sql/sql_intro.asp)
 * [JavaScript](https://javascript.info/intro)
+* [NGINX](https://www.nginx.com/)
+* [systemd](https://en.wikipedia.org/wiki/Systemd)
+* [Ansible](https://www.ansible.com/)
 
 My projects:
 * [BAC_light](https://github.com/megahomyak/BAC_light) (complicated VK bot)
