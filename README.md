@@ -14,6 +14,7 @@ My stack:
 * [NGINX](https://www.nginx.com/)
 * [systemd](https://en.wikipedia.org/wiki/Systemd)
 * [Ansible](https://www.ansible.com/)
+* [Java](https://www.java.com/en/download/help/whatis_java.html)
 
 My contacts:
 * [VK (stale)](https://vk.com/megahomyak)
