@@ -15,6 +15,8 @@ My stack:
 * [systemd](https://en.wikipedia.org/wiki/Systemd)
 * [Ansible](https://www.ansible.com/)
 * [Java](https://www.java.com/en/download/help/whatis_java.html)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Celery](https://docs.celeryq.dev/en/stable/)
 
 My contacts:
 * [VK (stale)](https://vk.com/megahomyak)
