@@ -17,6 +17,7 @@ My stack:
 * [Java](https://www.java.com/en/download/help/whatis_java.html)
 * [RabbitMQ](https://www.rabbitmq.com/)
 * [Celery](https://docs.celeryq.dev/en/stable/)
+* [GitHub Actions](https://docs.github.com/en/actions)
 
 My contacts:
 * [VK (stale)](https://vk.com/megahomyak)
