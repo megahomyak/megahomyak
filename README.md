@@ -20,6 +20,7 @@ My stack:
 * [Java](https://www.java.com/en/download/help/whatis_java.html)
 * [RabbitMQ](https://www.rabbitmq.com/)
 * [Celery](https://docs.celeryq.dev/en/stable/)
+* [Redis](https://redis.io/)
 * [GitHub Actions](https://docs.github.com/en/actions)
 
 My contacts:
