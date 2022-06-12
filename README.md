@@ -12,6 +12,7 @@ My stack:
 * [Go](https://go.dev)
     + [gin-gonic](https://github.com/gin-gonic/gin)
     + [GORM](https://gorm.io/)
+* [Git](https://git-scm.com/)
 * [SQL](https://w3schools.com/sql/sql_intro.asp)
 * [JavaScript](https://javascript.info/intro)
 * [NGINX](https://www.nginx.com/)
