@@ -25,5 +25,4 @@ My stack:
 * [GitHub Actions](https://docs.github.com/en/actions)
 
 My contacts:
-* Discord - `megahomyak#5813`
 * [Telegram](https://t.me/megahomyak)
