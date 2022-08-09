@@ -7,5 +7,5 @@ I can create:
 * Simple backend ([blog](https://github.com/megahomyak/blog), [notes](https://github.com/megahomyak/notes), [django_to_do_list](https://github.com/megahomyak/django_to_do_list))
 * Routine automation scripts ([obs_scene_switcher](https://github.com/megahomyak/obs_scene_switcher), [vk_messages_substitution](https://github.com/megahomyak/vk_messages_substitution))
 
-My contacts:
+If you're interested, you can contact me at:
 * [Telegram](https://t.me/megahomyak)
