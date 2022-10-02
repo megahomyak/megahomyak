@@ -1,40 +1,84 @@
-### Hi.
+<h3 align="center">Hi.</h3>
 
-I can create:
-* Telegram bots (no public examples here, sorry)
-* VK bots ([timed_valera](https://github.com/megahomyak/timed_valera), [GDL](https://github.com/megahomyak/GDL), [BAC_light](https://github.com/megahomyak/BAC_light), [timetable_getter_bot](https://github.com/megahomyak/timetable_getter_bot))
-* Discord bots ([uselessclods_discord_bot](https://github.com/megahomyak/uselessclods_discord_bot))
-* Simple backend ([blog](https://github.com/megahomyak/blog), [notes](https://github.com/megahomyak/notes), [django_to_do_list](https://github.com/megahomyak/django_to_do_list))
-* Routine automation scripts ([obs_scene_switcher](https://github.com/megahomyak/obs_scene_switcher), [vk_messages_substitution](https://github.com/megahomyak/vk_messages_substitution))
+<p align="center">Here you can take a look at:</p>
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/megahomyak/notes">Notes + Google Sign-In</a>
+</td>
+<td>
+<a href="https://github.com/megahomyak/pita">Educational website client done right</a>
+</td>
+<td>
+<a href="https://github.com/megahomyak/lisp_parser">Rusty LISP parser</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/megahomyak/blog">Cute server for blogs</a>
+</td>
+<td>
+<a href="https://github.com/megahomyak/every_script_is_a_vk_bot">Library that turns your code into a VK bot</a>
+</td>
+<td>
+<a href="https://github.com/megahomyak/cards_generator">Script that generates some cool cards</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/megahomyak/django_to_do_list">To-do list website</a>
+</td>
+<td>
+<a href="https://github.com/megahomyak/GDL">Complicated VK bot</a>
+</td>
+<td>
+<a href="https://github.com/megahomyak/afk_switcher">Handy OBS utility</a>
+</td>
+</tr>
+</table>
 
-<details>
-<summary>My stack</summary>
-<br>
+<p align="center">Here's what I know and love:</p>
+<table align="center">
+<tr>
+<td>
+<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
+</td>
+<td>
+<a href="https://www.rust-lang.org/"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a>
+</td>
+<td>
+<a href="https://go.dev/"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://fastapi.tiangolo.com/"><img src="/fastapi_logo.svg"></a>
+</td>
+<td>
+<a href="https://www.djangoproject.com/"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a>
+</td>
+<td>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://systemd.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Systemd-logo.svg"></a>
+</td>
+<td>
+<a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a>
+</td>
+<td>
+<a href="https://www.rabbitmq.com/"><img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"></a>
+</td>
+</tr>
+</table>
 
-* [Python](https://python.org)
-    + [FastAPI](https://fastapi.tiangolo.com/)
-    + [VKBottle](https://github.com/vkbottle/vkbottle)
-    + [Telethon](https://github.com/LonamiWebs/Telethon)
-    + [Django](https://djangoproject.com/)
-    + [SQLAlchemy](https://www.sqlalchemy.org/)
-* [Rust](https://rust-lang.org)
-* [C](https://wikipedia.org/wiki/C_(programming_language))
-* [Go](https://go.dev)
-    + [gin-gonic](https://github.com/gin-gonic/gin)
-    + [GORM](https://gorm.io/)
-* [Git](https://git-scm.com/)
-* [SQL](https://w3schools.com/sql/sql_intro.asp)
-* [JavaScript](https://javascript.info/intro)
-* [NGINX](https://www.nginx.com/)
-* [systemd](https://en.wikipedia.org/wiki/Systemd)
-* [Ansible](https://www.ansible.com/)
-* [Java](https://www.java.com/en/download/help/whatis_java.html)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Celery](https://docs.celeryq.dev/en/stable/)
-* [Redis](https://redis.io/)
-* [GitHub Actions](https://docs.github.com/en/actions)
-
-</details>
-
-If you're interested, you can contact me at:
-* [Telegram](https://t.me/megahomyak)
+<p align="center">You can contact me on:</p>
+<table align="center">
+<tr>
+<td>
+<a href="https://t.me/megahomyak">Telegram</a>
+</td>
+</tr>
+</table>
