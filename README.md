@@ -1,6 +1,6 @@
 <h3 align="center">Hi.</h3>
 
-<p align="center">Here you can take a look at:</p>
+<p align="center">In this GitHub profile you can take a look at:</p>
 <table align="center">
 <tr>
 <td>
