@@ -78,7 +78,7 @@
 <table align="center">
 <tr>
 <td>
-<a href="https://t.me/megahomyak">Telegram</a>
+<a href="https://t.me/megahomyak"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">Telegram</img></a>
 </td>
 </tr>
 </table>
