@@ -4,10 +4,10 @@
 <table align="center">
 <tr>
 <td>
-<a href="https://github.com/megahomyak/notes">Notes + Google Sign-In</a>
+<a href="https://github.com/megahomyak/notes">Notes website with Google Sign-In</a>
 </td>
 <td>
-<a href="https://github.com/megahomyak/pita">Educational website client done right</a>
+<a href="https://github.com/megahomyak/pita">Educational service client done right</a>
 </td>
 <td>
 <a href="https://github.com/megahomyak/lisp_parser">Rusty LISP parser</a>
