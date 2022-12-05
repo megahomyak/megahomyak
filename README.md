@@ -20,7 +20,7 @@
 <a href="https://github.com/megahomyak/blog">A cute server for blogs</a>
 </td>
 <td>
-<a href="https://github.com/megahomyak/every_script_is_a_vk_bot">A library that turns your code into a VK bot</a>
+<a href="https://github.com/megahomyak/intobot">A library that turns your code into a VK bot</a>
 </td>
 <td>
 <a href="https://github.com/megahomyak/cards_generator">A script that generates some cool cards</a>
