@@ -12,7 +12,7 @@
 <a href="https://github.com/megahomyak/pita">An educational service client done right</a>
 </td>
 <td>
-<a href="https://github.com/megahomyak/lisp_parser">A rusty LISP parser</a>
+<a href="https://github.com/megahomyak/nxml">A parser for my own markup language</a>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@
 <a href="https://github.com/megahomyak/GDL">A complicated VK bot</a>
 </td>
 <td>
-<a href="https://github.com/megahomyak/afk_switcher">A handy OBS utility</a>
+<a href="https://github.com/megahomyak/afk_switcher">A handy OBS utility for switching scenes when going AFK</a>
 </td>
 </tr>
 </table>
