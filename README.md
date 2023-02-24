@@ -1,7 +1,5 @@
 <h3 align="center">Hi.</h3>
 
-<div align="center"><a href="https://megahomyak.github.io">I have a blog!</a></div>
-
 <p align="center">In this GitHub profile you can take a look at:</p>
 <table align="center">
 <tr>
