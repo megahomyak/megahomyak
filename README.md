@@ -1,4 +1,4 @@
-## Public apology
+# Public apology
 
 This apology is intended for everyone whomst I've hurt in the past year and a half.
 
