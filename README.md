@@ -1,84 +1,13 @@
-<h3 align="center">Hi.</h3>
+## Public apology
 
-<p align="center">In this GitHub profile you can take a look at:</p>
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/megahomyak/notes">A notes website with Google Sign-In</a>
-</td>
-<td>
-<a href="https://github.com/megahomyak/pita">An educational service client done right</a>
-</td>
-<td>
-<a href="https://github.com/megahomyak/nxml">A parser for my own markup language</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/megahomyak/blog">A cute server for blogs</a>
-</td>
-<td>
-<a href="https://github.com/megahomyak/intobot">A library that turns your code into a VK bot</a>
-</td>
-<td>
-<a href="https://github.com/megahomyak/cards_generator">A script that generates some cool cards</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/megahomyak/django_to_do_list">A to-do list website</a>
-</td>
-<td>
-<a href="https://github.com/megahomyak/GDL">A complicated VK bot</a>
-</td>
-<td>
-<a href="https://github.com/megahomyak/afk_switcher">A handy OBS utility for switching scenes when going AFK</a>
-</td>
-</tr>
-</table>
+This apology is intended for everyone whomst I've hurt in the past year and a half.
 
-<p align="center">Here's what I know and love:</p>
-<table align="center">
-<tr>
-<td>
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></a>
-</td>
-<td>
-<a href="https://www.rust-lang.org/"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust"></a>
-</td>
-<td>
-<a href="https://go.dev/"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang"></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://fastapi.tiangolo.com/"><img src="/fastapi_logo.svg" alt="FastAPI"></a>
-</td>
-<td>
-<a href="https://www.djangoproject.com/"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django"></a>
-</td>
-<td>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://systemd.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Systemd-logo.svg" alt="systemd"></a>
-</td>
-<td>
-<a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible"></a>
-</td>
-<td>
-<a href="https://www.rabbitmq.com/"><img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" alt="RabbitMQ"></a>
-</td>
-</tr>
-</table>
+I cannot recall everyone who suffered because of me, and I really hope to reach you at least this way.
 
-<p align="center">You can contact me on:</p>
-<table align="center">
-<tr>
-<td>
-<a href="https://t.me/megahomyak"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">Telegram</img></a>
-</td>
-</tr>
-</table>
+I'm sorry.
+
+For the last year I've been behaving like an absolute prick. I've bothered other people with my problems, vented to them, even blamed some people for my own mistakes. Some people left me, some tried to make me feel better, but I kept pressing on the ones that were staying, filling them with negativity. I was thinking that people were bad to me. No, they weren't. It was me who acted like a villain. I used people's good attitude for my own enjoyment. I was careless, disrespectful, and in fact incredibly selfish and unable to behave.
+
+After the bad events passed, I learned a lot. I want to thank people who were rejecting me: you made me go out of my informational bubble and reconsider my life principles. I've learned to be nice to people I interact with. Now I'm trying to make every conversation with me good for the other person, and I will never use anyone as a tool for venting.
+
+In conclusion, I would like to also thank everyone who had interacted with me in the past. Thank you for your patience. Things like those that happened will never happen again. I am very sorry.
