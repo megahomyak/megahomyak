@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.70276743"
-     inkscape:cx="0"
+     inkscape:cx="-395.57895"
      inkscape:cy="419.76903"
      inkscape:window-width="1920"
      inkscape:window-height="976"
@@ -382,14 +382,14 @@
        x="81.432663"
        y="62.466869"
        inkscape:label="left eye" /><rect
-       style="display:inline;mix-blend-mode:normal;fill:#3d376d;fill-opacity:0.105318;stroke:#9a4d98;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="display:inline;mix-blend-mode:normal;fill:#3d376d;fill-opacity:0.16272564;stroke:#9a4d98;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect1157-3-5-3-3-7"
        width="12.74509"
        height="13.907972"
        x="55.879753"
        y="83.093201"
        inkscape:label="right eyebag" /><rect
-       style="display:inline;mix-blend-mode:normal;fill:#3d376d;fill-opacity:0.105318;stroke:#9a4d98;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="display:inline;mix-blend-mode:normal;fill:#3d376d;fill-opacity:0.16272564;stroke:#9a4d98;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect1157-3-5-6-5"
        width="12.74509"
        height="13.907972"
@@ -402,7 +402,10 @@
        x="24.543814"
        y="-34.298424"
        inkscape:label="page border"
-       style="mix-blend-mode:normal;fill:#ff0000;fill-opacity:0" /><rect
+       style="mix-blend-mode:normal;fill:#ff0000;fill-opacity:0"
+       inkscape:export-filename="my_avatar_tired.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /><rect
        style="mix-blend-mode:normal;fill:url(#linearGradient7806);fill-opacity:1;stroke-width:0.294973"
        id="rect7800"
        width="100.91237"
