@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="my_avatar_simplified.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.375477"
+     inkscape:cx="200.65766"
+     inkscape:cy="258.09229"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid260"
+       enabled="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#202020;fill-opacity:1"
+       id="rect541"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       inkscape:label="background" />
+    <rect
+       style="fill:#00e71f;fill-opacity:1"
+       id="rect14128"
+       width="477.38376"
+       height="136.74405"
+       x="18.842318"
+       y="422.14749"
+       inkscape:label="body" />
+    <rect
+       style="fill:#ffd793;fill-opacity:1"
+       id="rect1306"
+       width="232.75572"
+       height="283.11865"
+       x="141.60826"
+       y="96.914986"
+       inkscape:label="head_skin" />
+    <rect
+       style="fill:#965f00;fill-opacity:1"
+       id="rect6252"
+       width="265.4877"
+       height="109.39297"
+       x="123.52943"
+       y="66.464767"
+       inkscape:label="hair" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1"
+       id="rect6618"
+       width="186.54091"
+       height="57.951572"
+       x="218.04723"
+       y="170.18155"
+       inkscape:label="eyes" />
+    <rect
+       style="fill:#ad823b;fill-opacity:1"
+       id="rect9480"
+       width="48.256607"
+       height="49.25898"
+       x="319.57584"
+       y="243.35204"
+       inkscape:label="nose" />
+    <rect
+       style="fill:#0b0b0b;fill-opacity:1"
+       id="rect13138"
+       width="178.06552"
+       height="91.277985"
+       x="203.9915"
+       y="314.00717"
+       inkscape:label="mouth" />
+  </g>
+</svg>
